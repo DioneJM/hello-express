@@ -1,0 +1,19 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "hello world express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DioneJM/hello-express.git"
+  },
+  "author": "Dione",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DioneJM/hello-express/issues"
+  },
+  "homepage": "https://github.com/DioneJM/hello-express#readme"
+}
